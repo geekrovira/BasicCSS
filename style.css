@@ -1,0 +1,29 @@
+
+
+#naranja{
+     color:orange;
+}
+
+#verde{
+    color:green;
+}
+
+#azul{
+    color:blue;
+}
+
+#rojo{
+    color:red;
+}
+
+img{
+
+    height: 200px;
+    width: 300px;
+}
+
+.color-text{
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 200;
+}
