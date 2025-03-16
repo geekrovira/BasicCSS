@@ -1,3 +1,3 @@
 # BasicCSS
 
-[Vist Me](https://geekrovira.github.io/BasicCSS/)
+[Visit Me](https://geekrovira.github.io/BasicCSS/)
